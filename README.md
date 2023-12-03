@@ -1,1 +1,2 @@
-# js-app-testing-practice
+# js-app-testing
+
